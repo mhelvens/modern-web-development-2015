@@ -1,0 +1,22 @@
+{
+  "name": "modern-web-development-2014",
+  "version": "0.1.0",
+  "homepage": "https://github.com/mhelvens/modern-web-development-2014",
+  "authors": [
+    "mhelvens <mhelvens@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bacon": "~0.7.37",
+    "firebase": "~2.0.6"
+  }
+}

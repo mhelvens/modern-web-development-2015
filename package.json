@@ -1,0 +1,28 @@
+{
+  "name": "modern-web-development-2015",
+  "version": "0.1.0",
+  "description": "a step-by-step example of some modern javascript programming (ES6, FRP, Firebase, ...)",
+  "main": "index.js",
+  "devDependencies": {
+    "autoprefixer-loader": "~3",
+    "babel": "~5",
+    "babel-core": "~5",
+    "babel-loader": "~5",
+    "css-loader": "~0.21",
+    "expose-loader": "~0.7",
+    "html-webpack-plugin": "~1",
+    "jshint": "~2",
+    "jshint-loader": "~0.8",
+    "node-sass": "~3",
+    "sass-loader": "~3",
+    "style-loader": "~0.13",
+    "webpack": "~1"
+  },
+  "dependencies": {
+    "baconjs": "~0.7",
+    "firebase": "~2",
+    "jquery": "~2"
+  },
+  "author": "Michiel Helvensteijn <mhelvens@gmail.com>",
+  "license": "MIT"
+}
